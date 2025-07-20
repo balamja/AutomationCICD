@@ -1,0 +1,8 @@
+mjaacademy\resources\ExtentReporterNG.class
+mjaacademy\AbstractComponents\AbstractComponent.class
+mjaacademy\pageobjects\OrderPage.class
+mjaacademy\pageobjects\CartPage.class
+mjaacademy\pageobjects\CheckoutPage.class
+mjaacademy\pageobjects\ProductCatalogue.class
+mjaacademy\pageobjects\ConfirmationPage.class
+mjaacademy\pageobjects\LandingPage.class
