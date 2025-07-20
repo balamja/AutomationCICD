@@ -20,7 +20,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+                //mja new comments added new code basically
 		String  productName = "ADIDAS ORIGINAL";
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
